@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = 'pod制作测试制作测试'
+  s.description      = 'pod制作测试制作测试,MMPodTest pod 测试测试测试MMPodTest pod 测试测试测试'
 
   s.homepage         = 'https://github.com/MonroeKary/MMPodTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
